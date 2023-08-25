@@ -5,7 +5,6 @@ C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculado
 C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\bin\Debug\net5.0\Calculadora_aula_GCES.dll
 C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\bin\Debug\net5.0\ref\Calculadora_aula_GCES.dll
 C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\bin\Debug\net5.0\Calculadora_aula_GCES.pdb
-C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.csproj.AssemblyReference.cache
 C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.AssemblyInfoInputs.cache
 C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.AssemblyInfo.cs

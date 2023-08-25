@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora_aula_GCES", "Calculadora_aula_GCES\Calculadora_aula_GCES.csproj", "{415A6FF8-8207-415A-B06D-753B2874B591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{415A6FF8-8207-415A-B06D-753B2874B591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415A6FF8-8207-415A-B06D-753B2874B591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415A6FF8-8207-415A-B06D-753B2874B591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415A6FF8-8207-415A-B06D-753B2874B591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD84CD40-78FB-4967-BCCE-716E4B17A7E2}
+	EndGlobalSection
+EndGlobal

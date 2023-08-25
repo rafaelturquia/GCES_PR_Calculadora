@@ -1,0 +1,16 @@
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\bin\Debug\net5.0\Calculadora_aula_GCES.exe
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\bin\Debug\net5.0\Calculadora_aula_GCES.deps.json
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\bin\Debug\net5.0\Calculadora_aula_GCES.runtimeconfig.json
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\bin\Debug\net5.0\Calculadora_aula_GCES.runtimeconfig.dev.json
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\bin\Debug\net5.0\Calculadora_aula_GCES.dll
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\bin\Debug\net5.0\ref\Calculadora_aula_GCES.dll
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\bin\Debug\net5.0\Calculadora_aula_GCES.pdb
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.csproj.AssemblyReference.cache
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.AssemblyInfoInputs.cache
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.AssemblyInfo.cs
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.csproj.CoreCompileInputs.cache
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.dll
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\ref\Calculadora_aula_GCES.dll
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.pdb
+C:\Users\662897\Desktop\CGES\GCES_PR_Calculadora\Calculadora_aula_GCES\Calculadora_aula_GCES\obj\Debug\net5.0\Calculadora_aula_GCES.genruntimeconfig.cache
